@@ -12,6 +12,10 @@ _Il a pour but de faciliter la réception des dossiers en créant une trame d'ar
 
 _Pré-requis: se placer depuis le terminal, dans le dossier où l'on exécute le script:_
 
+Avant toute chose on clone le répository git:
+
+> <span style="color:  #46ee1c  ">git clone https://github.com/LGD-P/Gestion_arboresences_dossiers.git</span>
+
 Puis on lance l'installation des modules nécessaire au fonctionnement du script:
 
 > <span style="color:  #46ee1c  ">pip install -m requirements.txt</span>
