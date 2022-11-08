@@ -26,7 +26,7 @@ Une fois les modules installés on active l'environnement virutel:
 
 Il n'y a plus qu'à exécuter le script:
 
-> <span style="color:  #46ee1c  ">python3 creation_dun_nouveau_dossier.py</span>
+> <span style="color:  #46ee1c  ">python creation_dun_nouveau_dossier.py</span>
 
 <span style="color:  #ee643b  ">Note:</span>
 
