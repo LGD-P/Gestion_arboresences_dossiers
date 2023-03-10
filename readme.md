@@ -2,7 +2,7 @@
 
 _Ce script fonctionne sous python 3 ==>_ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50 align=center>
 
-_Il a pour but de faciliter la réception des dossiers en créant une trame d'arborescece et en fournirssant les principaux documents nécessaires aux premières investigations._
+_Il a pour but de faciliter la réception de dossiers en créant une trame d'arborescece et en fournirssant les principaux documents nécessaires._
 
 <span style="color:  #3b43ee  ">1.</span> L'utilisateur entre le nom de son dossier ou le numéro de sa procédure _(le cas échant il remplace les "/" par des "-")_.
 
@@ -16,9 +16,13 @@ Avant toute chose on clone le répository git:
 
 > <span style="color:  #46ee1c  ">git clone https://github.com/LGD-P/Gestion_arboresences_dossiers.git</span>
 
-Puis on lance l'installation des modules nécessaire au fonctionnement du script:
+On créer l'environnement virutel:
 
-> <span style="color:  #46ee1c  ">pip install -m requirements.txt</span>
+> <span style="color:  #46ee1c  "> python3 -m venv env</span>
+
+Puis on lance l'installation des modules nécessaires au fonctionnement du script:
+
+> <span style="color:  #46ee1c  ">pip install -r requirements.txt</span>
 
 Une fois les modules installés on active l'environnement virutel:
 
